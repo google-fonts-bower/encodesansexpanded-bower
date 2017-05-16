@@ -1,0 +1,17 @@
+{
+    "name": "encodesansexpanded-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type, Andres Torresi, Jacques Le Bailly"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/encodesansexpanded-bower.git"
+    },
+    "description": "Encode Sans Expanded font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
